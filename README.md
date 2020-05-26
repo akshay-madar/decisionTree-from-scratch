@@ -1,4 +1,4 @@
-Here I try to implement Decision Tree algo. from scratch for a classification problem. The model achieves slightly less accuracy as compared to the logistic regression that I have implemented on the same dataset, which can also be found in 'Statistical Learning in Python'
+Here I try to implement Decision Tree algo. from scratch for a classification problem. The model achieves slightly less accuracy as compared to the logistic regression that I have implemented on the same dataset, which can also be found in its own repo.
 
 ### Decision Tree algo:
 The splits are performed based on information gain and gini impurity as below. The tree builds recursively until there is no info. gain. Please see the notebook file for complete code.
